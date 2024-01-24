@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI/UX Design field.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 📫 Reach me at linkedin - www.linkedin.com/in/yogeshsathasivam
-- 🔗 My Portfolio Website - yogeshsportfolio.netlify.app(https://yogeshsportfolio.netlify.app/)
+- 🔗 My Portfolio Website - https://yogeshsportfolio.netlify.app
 - 📧 Reach me at yogeshsathasivam2002@gmail.com
 
 <!---
