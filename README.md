@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @YogeshSathasivam
-- 👀 I’m interested in Web/Ui design field.
+- 👀 I’m interested in UI/UX Design field.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 📫 Reach me at linkedin - www.linkedin.com/in/yogeshsathasivam
-- 📫 Reach me at yogeshsathasivam2002@gmail.com
+- 🔗 My Portfolio Website - yogeshsportfolio.netlify.app
+- 📧 Reach me at yogeshsathasivam2002@gmail.com
 
 <!---
 YogeshSathasivam/YogeshSathasivam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
