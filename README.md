@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @YogeshSathasivam
-- 👀 I’m interested in UI/UX Design field.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 👀 I’m a UI UX Designer
 - 📫 Reach me at linkedin - www.linkedin.com/in/yogeshsathasivam
-- 🔗 My Portfolio Website - https://yogeshsportfolio.netlify.app
+- 🔗 My Portfolio Website - https://yogeshdesign.com/
 - 📧 Reach me at yogeshsathasivam2002@gmail.com
 
 <!---
