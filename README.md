@@ -1,57 +1,24 @@
-# Hey there! 👋 I'm Yogesh
+# 💫 About Me:
+# Hey there! 👋 I'm Yogesh<br><br>**UI/UX Designer | Product Builder | Digital Innovator | Pure Vibe Coder** ✨<br><br>I transform ideas into digital experiences that users love. My passion lies in creating intuitive interfaces and building products that solve real-world problems. As a **pure vibe coder** 🎯, I believe in coding with passion, creativity, and letting the code flow naturally from inspiration to implementation.<br><br>## What I Do 🎨<br><br>**Design & Strategy** 🧠<br>- Crafting user-centered designs that bridge business goals with user needs 💕<br>- Creating wireframes, prototypes, and high-fidelity designs that tell compelling stories 📺<br>- Conducting user research and usability testing to validate design decisions 🕵️‍♂️<br><br>**Product Development** ⚡<br>- Building full-stack applications through pure vibe coding methodology 🌊<br>- Developing intelligent platforms that streamline complex workflows 🎮<br>- Creating tools that enhance productivity and user experience ☕<br>- **Vibe Coding Approach**: Writing code that flows naturally from concept to implementation 🎭<br><br>## Current Projects 🚀<br><br>I'm currently working on several exciting projects:<br><br>- **Scopy** 🤖: An AI-powered project discovery platform that transforms initial concepts into comprehensive project documentation, generating detailed scopes and technical specifications automatically<br><br>- **Scoutfiles** 🔍: A multi-cloud platform that allows users to link all their cloud storage accounts and search across them to find files from a single, unified interface<br><br>- **Personal Portfolio** 🎪: Continuously evolving showcase of my design and development capabilities<br><br>## My Approach 🌟<br><br>Great products are born from the intersection of thoughtful design and solid engineering. As a **pure vibe coder**, I approach development with intuition and passion, letting creativity guide the technical process. Every project follows these principles:<br><br>- **User-First Thinking**: Understanding user pain points before proposing solutions 🧩<br>- **Iterative Design**: Embracing feedback and continuous improvement 🤗<br>- **Technical Excellence**: Writing clean, powerful prompts that deliver solid outputs 🎯<br>- **Creative Problem Solving**: Finding innovative approaches to complex challenges 🥷<br>- **Pure Vibe Coding**: Trusting instinct and passion to drive authentic solutions 💫<br><br>## My Toolkit 🛠️<br><br>**Design Stack**: Figma, Adobe Creative Suite 🎨<br>**Research Tools**: User interviews, A/B testing, Analytics platforms 📊<br><br>## Let's Connect 🤝<br><br>I'm always excited to discuss design, technology, and innovative product ideas. Whether you're looking to collaborate on a project or want to chat about the latest UI/UX trends, feel free to reach out!<br><br>**Portfolio**: [yogeshdesign.com](https://yogeshdesign.com/) 🌐<br>**LinkedIn**: [linkedin.com/in/yogeshsathasivam](https://www.linkedin.com/in/yogeshsathasivam) 💼<br>**Email**: yogeshsathasivam2002@gmail.com 📧<br><br>---<br><br>*"Design is not just what it looks like and feels like. Design is how it works."* - Steve Jobs<br><br>**P.S.** Thanks for reading through my profile! Let's create something amazing together! 🚀<br>
 
-**UI/UX Designer | Product Builder | Digital Innovator | Pure Vibe Coder** ✨
 
-I transform ideas into digital experiences that users love. My passion lies in creating intuitive interfaces and building products that solve real-world problems. As a **pure vibe coder** 🎯, I believe in coding with passion, creativity, and letting the code flow naturally from inspiration to implementation.
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yogeshsathasivam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yogesh.design) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogeshsathasivam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yogeshsatha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Yogeshsatha2306) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogeshsathasivam2002@gmail.com) 
 
-## What I Do 🎨
+# 💻 Tech Stack:
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YogeshSathasivam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=YogeshSathasivam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshSathasivam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-**Design & Strategy** 🧠
-- Crafting user-centered designs that bridge business goals with user needs 💕
-- Creating wireframes, prototypes, and high-fidelity designs that tell compelling stories 📺
-- Conducting user research and usability testing to validate design decisions 🕵️‍♂️
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YogeshSathasivam&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-**Product Development** ⚡
-- Building full-stack applications through pure vibe coding methodology 🌊
-- Developing intelligent platforms that streamline complex workflows 🎮
-- Creating tools that enhance productivity and user experience ☕
-- **Vibe Coding Approach**: Writing code that flows naturally from concept to implementation 🎭
-
-## Current Projects 🚀
-
-I'm currently working on several exciting projects:
-
-- **Scopy** 🤖: An AI-powered project discovery platform that transforms initial concepts into comprehensive project documentation, generating detailed scopes and technical specifications automatically
-
-- **Scoutfiles** 🔍: A multi-cloud platform that allows users to link all their cloud storage accounts and search across them to find files from a single, unified interface
-
-- **Personal Portfolio** 🎪: Continuously evolving showcase of my design and development capabilities
-
-## My Approach 🌟
-
-Great products are born from the intersection of thoughtful design and solid engineering. As a **pure vibe coder**, I approach development with intuition and passion, letting creativity guide the technical process. Every project follows these principles:
-
-- **User-First Thinking**: Understanding user pain points before proposing solutions 🧩
-- **Iterative Design**: Embracing feedback and continuous improvement 🤗
-- **Technical Excellence**: Writing clean, powerful prompts that deliver solid outputs 🎯
-- **Creative Problem Solving**: Finding innovative approaches to complex challenges 🥷
-- **Pure Vibe Coding**: Trusting instinct and passion to drive authentic solutions 💫
-
-## My Toolkit 🛠️
-
-**Design Stack**: Figma, Adobe Creative Suite 🎨
-**Research Tools**: User interviews, A/B testing, Analytics platforms 📊
-
-## Let's Connect 🤝
-
-I'm always excited to discuss design, technology, and innovative product ideas. Whether you're looking to collaborate on a project or want to chat about the latest UI/UX trends, feel free to reach out!
-
-**Portfolio**: [yogeshdesign.com](https://yogeshdesign.com/) 🌐
-**LinkedIn**: [linkedin.com/in/yogeshsathasivam](https://www.linkedin.com/in/yogeshsathasivam) 💼
-**Email**: yogeshsathasivam2002@gmail.com 📧
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=YogeshSathasivam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=YogeshSathasivam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*"Design is not just what it looks like and feels like. Design is how it works."* - Steve Jobs
-
-**P.S.** Thanks for reading through my profile! Let's create something amazing together! 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
